@@ -75,6 +75,7 @@ Me gusta la composicion como algo principal, quiza cada vez que te metes a la pa
 
 #### Moodboard de Referentes
 
+Mas que moodboard es como la idea de un museo de estas ilustraciones
 <img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/3b29f60b-9f52-4934-af23-edea33e6505d" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7252af85-cb69-40e8-9551-8a9102406572" />
 <img width="960" height="640" alt="image" src="https://github.com/user-attachments/assets/9d3a371f-11fb-4ee5-a9d8-4bdf7bba6237" />
